@@ -47,7 +47,7 @@ The project is structured as follows:
 
 ## Project Summary:
   
-** *Apple iPhones are among the top-selling smartphones worldwide. There is huge competition among smartphone brands in India, where you can get the latest technology in a smartphone at half the price of an iPhone. Still, there are high sales of iPhones in India. So if you want to analyze the sales of iPhones in India, this article is for you. In this article, I will take you through the task of iPhone Sales Analysis using Python.
+** *Apple iPhones are among the top-selling smartphones worldwide. There is huge competition among smartphone brands in India, where you can get the latest technology in a smartphone at half the price of an iPhone. Still, there are high sales of iPhones in India. So if you want to analyze the sales of iPhones in India, this article is for you. In this project, I will take you through the task of iPhone Sales Analysis using Python.
 For the iPhone sales analysis task, I have collected a dataset from Kaggle containing data about the sales of iPhones in India on Flipkart. It will be an ideal dataset to analyze the sales of iPhones in India. 
 **
 
